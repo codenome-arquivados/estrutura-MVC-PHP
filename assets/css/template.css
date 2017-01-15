@@ -1,0 +1,12 @@
+body {
+	background-color:#CCC;
+	margin:0;
+}
+.topo {
+	height:40px;
+	background-color:#999;
+	text-align: center;
+	color:#FFF;
+	font-size:15px;
+	line-height: 40px;
+}
